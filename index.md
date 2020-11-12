@@ -2,15 +2,17 @@
 Welcome !! Its Suraj.
 
 ### Education
-  - M.tech in CSE, Kalyani University.(2020-2022)
-  - B.E in CSE, Burdwan University. (2014-2018)
+  - M.tech in CSE, Kalyani University.(2020-2022).
+  - B.E in CSE, Burdwan University. (2014-2018).
+  
 ### Work Experience
-  -Junior Research Fellow at NIT Durgapur (July'2018-Sep'2020)
+  -Junior Research Fellow at NIT Durgapur (July'2018-Sep'2020).
+  
 ### Tools, languages
   - C, C++ [Check out some codes by me](https://github.com/srm1071/codingpractice).
   - Matlab [Check out some codes](https://github.com/srm1071/Project-MathSec ).
   - Verilog [Soon will upload some codes].
-  - Xilinx ISE
+  - Xilinx ISE.
 
 ### Markdown
 
