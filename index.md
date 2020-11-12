@@ -15,7 +15,8 @@ Welcome !! Its Suraj.
   - Xilinx ISE.
 
 ### My Working area
- Do you know what is PUF? You can consider Physically Unclonable Function or PUF as a digital fingerprint. What a digital fingerprint does is to uniquely identify persons uniquely. PUF basically does the same for any eletronic device where we can embedd a PUF.
+ Do you know what is PUF? You can consider Physically Unclonable Function or PUF as a digital fingerprint. What a digital fingerprint does is to uniquely identify persons uniquely. PUF basically does the same for any device where we can embedd a PUF.
+ One can think PUF like a blackbox where there some output (known as Response of a PUF) to some inputs (known as Challenges to a PUF). If you apply same challenge in same PUF over multiple times in same embedded device we should get the same response i.e. reliability of a PUF response should be 100% ideally.
  ![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens").
 
 ```markdown
@@ -42,6 +43,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srm1071/suraj_cs.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Me
+If you have any question you can mail me: surajcse71@gmail.com .
