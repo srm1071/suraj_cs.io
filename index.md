@@ -2,8 +2,8 @@
 Welcome !! Its Suraj.
 
 ### Education
-M.tech in CSE, Kalyani University
-B.E in CSE, Burdwan University.
+  - M.tech in CSE, Kalyani University.
+  - B.E in CSE, Burdwan University.
 
 ### Markdown
 
