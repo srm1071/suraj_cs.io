@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+Welcome !! Its Suraj.
+I am currently a masters student at Kalyani university. I have worked as a Junior Research Fellow at NIT Durgapur for 2year 3months. I have completed my B.E in Computer Science and Engineering from U.I.T., Burdwan University.
 
 You can use the [editor on GitHub](https://github.com/srm1071/suraj_cs.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
