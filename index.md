@@ -14,9 +14,9 @@ Welcome !! Its Suraj.
   - Verilog [Soon will upload some codes].
   - Xilinx ISE.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My Working area
+ Do you know what is PUF? You can consider Physically Unclonable Function or PUF as a digital fingerprint. What a digital fingerprint does is to uniquely identify persons uniquely. PUF basically does the same for any eletronic device where we can embedd a PUF.
+ ![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens").
 
 ```markdown
 Syntax highlighted code block
