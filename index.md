@@ -7,9 +7,9 @@ Welcome !! Its Suraj.
 ### Work Experience
   -Junior Research Fellow at NIT Durgapur (July'2018-Sep'2020)
 ### Tools, languages
-  - C, C++ (Check out some codes by me: https://github.com/srm1071/codingpractice)
-  - Matlab (Check out some codes: https://github.com/srm1071/Project-MathSec )
-  - Verilog (Soon will upload some codes)
+  - C, C++ [Check out some codes by me](https://github.com/srm1071/codingpractice).
+  - Matlab [Check out some codes](https://github.com/srm1071/Project-MathSec ).
+  - Verilog [Soon will upload some codes].
   - Xilinx ISE
 
 ### Markdown
