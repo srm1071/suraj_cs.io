@@ -1,9 +1,12 @@
-## Welcome to GitHub Pages
+## Hi there, 
 Welcome !! Its Suraj.
 
 You can use the [editor on GitHub](https://github.com/srm1071/suraj_cs.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Education
+M.tech in CSE, Kalyani University
+B.E in CSE, Burdwan University.
 
 ### Markdown
 
