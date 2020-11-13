@@ -13,7 +13,7 @@ Welcome !! Its Suraj.
   - Matlab [Check out some codes](https://github.com/srm1071/Project-MathSec ).
   - Verilog [Soon will upload some codes].
   - Python
-  - HTML/CSS [check out some HTML/CSS codes by me] (https://github.com/srm1071/web_coding)
+  - HTML/CSS [check out some HTML/CSS codes by me](https://github.com/srm1071/web_coding)
   - Xilinx ISE.
   - Latex
   - Microsoft Office
