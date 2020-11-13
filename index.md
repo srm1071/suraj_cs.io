@@ -19,7 +19,7 @@ Welcome !! Its Suraj.
   - Microsoft Office.
   
 ### Subject Interests
-  -Algorithms, Data Structure, Operating Systems, Digital Electronics.
+  - Algorithms, Data Structure, Operating Systems, Digital Electronics.
 
 ### My Working area
  Do you know what is PUF? You can consider Physically Unclonable Function or PUF as a digital fingerprint. What a digital fingerprint does is to uniquely identify persons uniquely. PUF basically does the same for any device where we can embedd a PUF.
