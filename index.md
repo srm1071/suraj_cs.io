@@ -12,12 +12,18 @@ Welcome !! Its Suraj.
   - C, C++ [Check out some codes by me](https://github.com/srm1071/codingpractice).
   - Matlab [Check out some codes](https://github.com/srm1071/Project-MathSec ).
   - Verilog [Soon will upload some codes].
+  - Python
+  - HTML/CSS [check out some HTML/CSS codes by me] ()
   - Xilinx ISE.
+  - Latex
+  - Microsoft Office
+### Subject Interests
+  -Algorithms, Data Structure, Operating Systems, Digital Electronics.
 
 ### My Working area
  Do you know what is PUF? You can consider Physically Unclonable Function or PUF as a digital fingerprint. What a digital fingerprint does is to uniquely identify persons uniquely. PUF basically does the same for any device where we can embedd a PUF.
  One can think PUF like a blackbox where there some output (known as Response of a PUF) to some inputs (known as Challenges to a PUF). If you apply same challenge in same PUF over multiple times in same embedded device we should get the same response i.e. reliability of a PUF response should be 100% ideally.
- ![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens").
+ 
 
 ```markdown
 Syntax highlighted code block
