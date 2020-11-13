@@ -16,7 +16,8 @@ Welcome !! Its Suraj.
   - HTML/CSS [check out some HTML/CSS codes by me](https://github.com/srm1071/web_coding)
   - Xilinx ISE.
   - Latex
-  - Microsoft Office
+  - Microsoft Office.
+  
 ### Subject Interests
   -Algorithms, Data Structure, Operating Systems, Digital Electronics.
 
