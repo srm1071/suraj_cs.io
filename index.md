@@ -23,9 +23,7 @@ Welcome !! Its Suraj.
 
 ### My Working area
  Do you know what is PUF? You can consider Physically Unclonable Function or PUF as a digital fingerprint. What a digital fingerprint does is to uniquely identify persons uniquely. PUF basically does the same for any device where we can embedd a PUF.
- One can think PUF like a blackbox where there some output (known as Response of a PUF) to some inputs (known as Challenges to a PUF). If you apply same challenge in same PUF over multiple times in same embedded device we should get the same response i.e. reliability of a PUF response should be 100% ideally.
- 
-
+What is FPGA? Field Programmable Gate Array is one type of semiconductor chip that is designed to be programmed in any type of digital circuit. FPGAs supports parallel programming. What if we want to fetch data from temparature and humidity sensors parallely? Single threaded microcontroller are not meant to support multiple sensors simultaneously. With support of parallel programming FPGAs can read data from different sensors simultaneously.
 ```markdown
 Syntax highlighted code block
 
