@@ -22,8 +22,8 @@ Welcome !! Its Suraj.
   - Algorithms, Data Structure, Operating Systems, Digital Electronics.
 
 ### My Working area
- Do you know what is PUF? You can consider Physically Unclonable Function or PUF as a digital fingerprint. What a digital fingerprint does is to uniquely identify persons uniquely. PUF basically does the same for any device where we can embedd a PUF.
-What is FPGA? Field Programmable Gate Array is one type of semiconductor chip that is designed to be programmed in any type of digital circuit. FPGAs supports parallel programming. What if we want to fetch data from temparature and humidity sensors parallely? Single threaded microcontroller are not meant to support multiple sensors simultaneously. With support of parallel programming FPGAs can read data from different sensors simultaneously.
+  - Do you know what is PUF? You can consider Physically Unclonable Function or PUF as a digital fingerprint. What a digital fingerprint does is to uniquely identify persons uniquely. PUF basically does the same for any device where we can embedd a PUF.
+  - What is FPGA? Field Programmable Gate Array is one type of semiconductor chip that is designed to be programmed in any type of digital circuit. FPGAs supports parallel programming. What if we want to fetch data from temparature and humidity sensors parallely? Single threaded microcontroller are not meant to support multiple sensors simultaneously. With support of parallel programming FPGAs can read data from different sensors simultaneously.
 ```markdown
 Syntax highlighted code block
 
