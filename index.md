@@ -11,8 +11,8 @@ Welcome !! Its Suraj.
 ### Tools, languages
   - C, C++ [Check out some codes by me](https://github.com/srm1071/codingpractice).
   - Matlab [Check out some codes](https://github.com/srm1071/Project-MathSec ).
-  - Verilog [Soon will upload some codes].
-  - Python
+  - Verilog 
+  - Python [Check out some codes by me](https://github.com/srm1071/Python_image_processing)
   - HTML/CSS [check out some HTML/CSS codes by me](https://github.com/srm1071/web_coding)
   - Xilinx ISE.
   - Latex
